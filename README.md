@@ -87,10 +87,6 @@ This file contains predefined intents with patterns and corresponding responses.
 
 You can edit `intents.json` to add your own intents and responses.
 
-## 📽️ Project Demo
-
-Watch the project demonstration video here: [YouTube Link](#) <!-- Replace with actual link -->
-
 ## 🎯 Use Cases
 
 - Learning basic chatbot and NLP development
@@ -100,10 +96,6 @@ Watch the project demonstration video here: [YouTube Link](#) <!-- Replace with 
 ## 🙌 Contributing
 
 Feel free to contribute by improving the intent structure, chatbot logic, or model performance. Fork the repo and create a pull request.
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
